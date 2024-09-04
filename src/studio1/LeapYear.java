@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class LeapYear {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 		int year;
 		Scanner scan = new Scanner(System.in);
 		
@@ -16,7 +16,7 @@ public class LeapYear {
 		System.out.println(year + " is a leap year: " + leapYear);
 		
 		
-		
+		//hi
 	}
 
 }

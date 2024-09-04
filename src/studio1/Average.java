@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Average {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 		int n1, n2;
 		Scanner scan = new Scanner(System.in);
 		
@@ -15,7 +15,7 @@ public class Average {
 		n2 = scan.nextInt();
 		double average = (((double) n1 + n2) / 2 );
 		System.out.println("Average of " + n1 + " and " + n2 + " is " + average);
-		
+		//hi
 		
 	}
 
